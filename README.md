@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AlirezaAghdasi83
+- 👋 Hi, I’m Alireza Aghdasi.
+- 🏠 I'm from Iran and my hometown is Sari.
 - 👀 I’m interested in football⚽.
 - 🌱 I’m currently learning web programming.
 - 😄 Pronouns: speed⚡
